@@ -49,9 +49,9 @@ Agent washing, the S-1 as the new whitepaper, $750B capex and the turn to agent 
 | When | What | Note |
 | :-- | :-- | :-- |
 | December 2026 | The AI Buzzword Audit · December 2026: The 12 Buzzwords That Survived 2026 (and the 40 That Didn't) | year-end edition by Emmy |
-| 24 Dec 2026 | Operation Yuletide Zenith, Year Two: Is Santa Agentic? | Hans Müller on Medium, teaser for Season 1 |
+| soon | Operation Yuletide Zenith, Year Two: Is Santa Agentic? | Hans Müller on Medium, teaser for Season 1 |
 | soon | Buzzer of the Day · Season 1 | 28 words, one a day |
-| January 2027 | The AI Buzzword Audit · 2026 annual | the long view on 2026 |
+| soon | The AI Buzzword Audit · 2026 annual | the long view on 2026 |
 
 ## 👥 Who · Wer
 

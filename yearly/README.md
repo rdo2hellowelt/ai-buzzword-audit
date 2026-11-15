@@ -7,7 +7,7 @@
 
 | Year | Edition | In one line |
 | :-- | :-- | :-- |
-| **January 2027** | *The AI Buzzword Audit · 2026 annual* (upcoming) | the long view on 2026 |
+| **soon** | *The AI Buzzword Audit · 2026 annual* (upcoming) | the long view on 2026 |
 | **2025-2026** | [The AI Buzzword Audit · January 2025 – January 2026](2025-2026_annual-audit.md) | From Generative AI to Agentic AI: reasoning models, vibe coding, AI slop and GEO. |
 
 **The year 2026 month by month:** see [monthly/2026](../monthly/2026/README.md).
