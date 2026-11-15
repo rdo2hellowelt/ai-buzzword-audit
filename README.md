@@ -1,5 +1,16 @@
 <div align="center">
 
+```text
+         .-"""-.      /
+        ([=]-[=])    /
+         \  ~  /    /       ,-"-.
+       __/`-v-'\__ /       (o _ o)
+      /  |<><>|  \/       ( (_v_) )
+ ____/___|<><>|___\________\_"_"_/______
+|   [__]  c[_]                ROOM 21   |
+|_______________________________________|
+```
+
 # 🔔 The AI Buzzword Audit
 
 **One buzzword a day. One audit a month. Filed from Room 21, K'Town.**
