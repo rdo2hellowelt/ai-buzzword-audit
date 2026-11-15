@@ -12,5 +12,4 @@
 >
 > *Bald jeden Morgen ein Wort. Bis dahin regiert „Agentic“.*
 
-*No buzzer released yet. The full word list is already in the [glossary](../glossary/README.md).*
-*Noch kein Wort freigegeben. Die Wortliste steht schon im [Glossar](../glossary/README.md).*
+*Coming soon · Bald.*

@@ -15,6 +15,3 @@
 | **August 2026** | [AI Industry Audit · August 2026](2026-08_industry-audit.md) | Automated audit | Agent swarms, embodied AI and on-device small models; prompt engineering gives way to orchestration. | Embodied, Orchestration, Neuro-symbolic |
 | **July 2026** | [AI Industry Audit · July 2026](2026-07_industry-audit.md) | Automated audit | From chat interface to agentic operating system; Physical AI and Sovereign AI rise, synthetic data cools. | Physicality, Orchestrator, Quantized |
 | **June 2026** | [AI Buzzword Tracker · June 2026](2026-06_buzzword-tracker.md) | Tracker export | Agentic takes #1, RAG and AGI start to fall, MoE and Test-Time arrive. | Agentic, AGI, RAG |
-
-**How to read the types · Arten:** *Tracker export* and *Automated audit* are raw model runs (scores are model output, unverified references are marked ⚠). *Article* is the written edition. From November 2026 the ranking is editorial with named sources.
-*Tracker export* und *Automated audit* sind rohe Modellläufe (Werte sind Modellausgabe, unbelegte Quellen mit ⚠ markiert). *Article* ist die ausgeschriebene Ausgabe. Ab November 2026 ist die Rangliste redaktionell und mit Quellen belegt.

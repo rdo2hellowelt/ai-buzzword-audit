@@ -74,5 +74,3 @@ Rankings are editorial and directional. Editions before November 2026 are automa
 Ranglisten sind redaktionell und als Richtung gemeint. Ausgaben vor November 2026 sind automatische Tracker-Läufe; ihre Werte sind Modellausgabe, unbelegte Quellen sind mit ⚠ markiert. Keine Anlageberatung.
 
 Texts and images: [CC BY 4.0](LICENSE.md) · Texte und Bilder: CC BY 4.0.
-
-<sub>State 2026-11-15</sub>
