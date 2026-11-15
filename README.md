@@ -10,11 +10,11 @@
 </div>
 
 > ## 🔔 Buzzer of the Day
-> **Starts Mon 11 Jan 2027** · in 57 days · 28 words, one a day, read out by Hans Müller in Room 21.
+> **Coming soon** · one word a day, read out by Hans Müller in Room 21.
 >
 > Until then the reigning word is **Agentic**, #1 in the [November 2026 audit](monthly/2026/2026-11_agent-washing.md).
 >
-> *Ab 11.01.2027 jeden Morgen ein Wort. Bis dahin regiert „Agentic“.*
+> *Bald jeden Morgen ein Wort. Bis dahin regiert „Agentic“.*
 
 ---
 
@@ -39,7 +39,7 @@ Agent washing, the S-1 as the new whitepaper, $750B capex and the turn to agent 
 | :-- | :-- | :-- |
 | December 2026 | The AI Buzzword Audit · December 2026: The 12 Buzzwords That Survived 2026 (and the 40 That Didn't) | year-end edition by Emmy |
 | 24 Dec 2026 | Operation Yuletide Zenith, Year Two: Is Santa Agentic? | Hans Müller on Medium, teaser for Season 1 |
-| 11 Jan – 7 Feb 2027 | Buzzer of the Day · Season 1 | 28 words, one a day at 06:45 CET |
+| soon | Buzzer of the Day · Season 1 | 28 words, one a day |
 | January 2027 | The AI Buzzword Audit · 2026 annual | the long view on 2026 |
 
 ## 👥 Who · Wer
