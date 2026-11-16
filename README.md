@@ -40,7 +40,7 @@ Agent washing, the S-1 as the new whitepaper, $750B capex and the turn to agent 
 | :-- | :-- | :-- |
 | [`daily/`](daily/README.md) | **Buzzer of the Day**: one word, Hans reads it out, plain-English translation | daily during a season |
 | [`weekly/`](weekly/README.md) | the seven buzzers of a week in one table | weekly |
-| [`monthly/`](monthly/README.md) | **The AI Buzzword Audit** by Emmy: leaderboard, essay, sources | monthly |
+| [`monthly/`](monthly/README.md) | **The AI Buzzword Audit** by Hans Müller: leaderboard, essay, sources | monthly |
 | [`yearly/`](yearly/README.md) | the annual audit | yearly |
 | [`glossary/`](glossary/README.md) | every word in plain English, with the audits it appeared in | grows |
 | [`features/`](features/README.md) | Hans Müller's long reads on AI | irregular |
@@ -49,15 +49,14 @@ Agent washing, the S-1 as the new whitepaper, $750B capex and the turn to agent 
 
 | When | What | Note |
 | :-- | :-- | :-- |
-| December 2026 | The AI Buzzword Audit · December 2026: The 12 Buzzwords That Survived 2026 (and the 40 That Didn't) | year-end edition by Emmy |
+| December 2026 | The AI Buzzword Audit · December 2026: The 12 Buzzwords That Survived 2026 (and the 40 That Didn't) | year-end edition by Hans Müller |
 | soon | Operation Yuletide Zenith, Year Two: Is Santa Agentic? | Hans Müller on Medium, teaser for Season 1 |
 | soon | Buzzer of the Day · Season 1 | 28 words, one a day |
 | soon | The AI Buzzword Audit · 2026 annual | the long view on 2026 |
 
 ## 👥 Who · Wer
 
-- **Emmy** writes the monthly audit, British, dry, the voice of the house.
-- **Hans Müller** keeps the Nerd Box in Room 21 and reads one buzzword a day. Sunglasses, argyle vest, pointer in his left hand.
+- **Hans Müller** writes the monthly audit, keeps the Nerd Box in Room 21 and reads one buzzword a day. Sunglasses, argyle vest, pointer in his left hand.
 - **Sir Henry** pulls the face of the day. He never says a word.
 
 *Fictional characters from [The Gossip of K'Town](https://www.tiktok.com/@thegossipofktown). German suburb. American radio.*
