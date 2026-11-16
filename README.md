@@ -67,6 +67,7 @@ Agent washing, the S-1 as the new whitepaper, $750B capex and the turn to agent 
 | :-- | :-- |
 | [apfelkern](https://github.com/rdo2hellowelt/apfelkern) | **Apfel**: Claude Code skill that reviews work dialogs against Apple's Human Interface Guidelines, live, every finding with a source |
 | [birnenkern](https://github.com/rdo2hellowelt/birnenkern) | **Birne**: Claude Code skill that draws how a system is built as a technical sheet after DIN, ink on white |
+| [on-the-soundtrack](https://github.com/rdo2hellowelt/on-the-soundtrack) | **On the Soundtrack**: Emmy's Morning Show, the true story behind the song, then a moment from K'Town |
 
 ## ⚖️ Fine print · Kleingedrucktes
 
