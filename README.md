@@ -71,7 +71,6 @@ Agent washing, the S-1 as the new whitepaper, $750B capex and the turn to agent 
 
 ## ⚖️ Fine print · Kleingedrucktes
 
-Rankings are editorial and directional. Editions before November 2026 are automated tracker runs: their scores are model output, and references we could not verify are marked ⚠. Nothing here is financial advice.
-Ranglisten sind redaktionell und als Richtung gemeint. Ausgaben vor November 2026 sind automatische Tracker-Läufe; ihre Werte sind Modellausgabe, unbelegte Quellen sind mit ⚠ markiert. Keine Anlageberatung.
+We don't post. We won't declare.
 
 Texts and images: [CC BY 4.0](LICENSE.md) · Texte und Bilder: CC BY 4.0.
