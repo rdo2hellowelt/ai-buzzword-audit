@@ -5,10 +5,13 @@ kind: "article"
 lang: "en"
 summary: "The Agentic Boardroom: A2A protocol, the 45-second thinking pause and Control-First Governance."
 top: ["Agentic", "Reasoning", "Orchestration"]
+medium: "https://klangmeister.medium.com/the-ai-buzzword-audit-october-2026-edition-54c216b99be2"
 ---
 
 # The AI Buzzword Audit · October 2026
 ### *How We Stopped Prompting, Surrendered to Agent Swarms, and Learned to Love 45-Second Inference Deliberations.*
+
+*Originally published on [Medium](https://klangmeister.medium.com/the-ai-buzzword-audit-october-2026-edition-54c216b99be2)*
 
 > [!NOTE]
 > **EN:** Written on top of the automated October tracker. Leaderboard scores are tracker output. Two references the tracker supplied are marked ⚠ because we could not verify them.

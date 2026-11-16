@@ -5,10 +5,13 @@ kind: "article"
 lang: "en"
 summary: "Agent washing, the S-1 as the new whitepaper, $750B capex and the turn to agent memory."
 top: ["Agentic", "Agent Washing", "S-1 / IPO"]
+medium: "https://klangmeister.medium.com/the-ai-buzzword-audit-november-2026-edition-e6295ca6f67b"
 ---
 
 # The AI Buzzword Audit · November 2026
 ### *S-1 Filings Are the New Whitepapers, Every Chatbot Is Suddenly an "Agent," and $750 Billion Is Looking for a Business Model.*
+
+*Originally published on [Medium](https://klangmeister.medium.com/the-ai-buzzword-audit-november-2026-edition-e6295ca6f67b)*
 
 > [!TIP]
 > **EN:** The first fully researched edition: an editorial ranking with named sources instead of tracker scores.

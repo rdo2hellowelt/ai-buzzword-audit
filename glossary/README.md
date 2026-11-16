@@ -1,6 +1,6 @@
 # 📖 Glossary · Glossar
 
-[Home](../README.md) · [Buzzer of the Day](../daily/README.md) · [Weekly](../weekly/README.md) · [Monthly](../monthly/README.md) · [Yearly](../yearly/README.md) · [Glossary](README.md)
+[Home](../README.md) · [Buzzer of the Day](../daily/README.md) · [Weekly](../weekly/README.md) · [Monthly](../monthly/README.md) · [Yearly](../yearly/README.md) · [Glossary](README.md) · [Features](../features/README.md)
 
 **EN:** Every buzzword of Season 1 in plain English, with the audits it showed up in.
 **DE:** Jedes Modewort von Season 1 im Klartext, mit den Audits, in denen es auftaucht.

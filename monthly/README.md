@@ -1,6 +1,6 @@
 # 🗓️ Monthly audits · Monatsaudits
 
-[Home](../README.md) · [Buzzer of the Day](../daily/README.md) · [Weekly](../weekly/README.md) · [Monthly](README.md) · [Yearly](../yearly/README.md) · [Glossary](../glossary/README.md)
+[Home](../README.md) · [Buzzer of the Day](../daily/README.md) · [Weekly](../weekly/README.md) · [Monthly](README.md) · [Yearly](../yearly/README.md) · [Glossary](../glossary/README.md) · [Features](../features/README.md)
 
 | Year | Editions | Latest |
 | :-- | --: | :-- |

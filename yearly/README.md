@@ -1,6 +1,6 @@
 # 📚 Yearly audits · Jahresaudits
 
-[Home](../README.md) · [Buzzer of the Day](../daily/README.md) · [Weekly](../weekly/README.md) · [Monthly](../monthly/README.md) · [Yearly](README.md) · [Glossary](../glossary/README.md)
+[Home](../README.md) · [Buzzer of the Day](../daily/README.md) · [Weekly](../weekly/README.md) · [Monthly](../monthly/README.md) · [Yearly](README.md) · [Glossary](../glossary/README.md) · [Features](../features/README.md)
 
 **EN:** The long view: which words survived the year and which ones didn't.
 **DE:** Der lange Blick: welche Wörter das Jahr überlebt haben und welche nicht.

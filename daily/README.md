@@ -1,6 +1,6 @@
 # 🔔 Buzzer of the Day
 
-[Home](../README.md) · [Buzzer of the Day](README.md) · [Weekly](../weekly/README.md) · [Monthly](../monthly/README.md) · [Yearly](../yearly/README.md) · [Glossary](../glossary/README.md)
+[Home](../README.md) · [Buzzer of the Day](README.md) · [Weekly](../weekly/README.md) · [Monthly](../monthly/README.md) · [Yearly](../yearly/README.md) · [Glossary](../glossary/README.md) · [Features](../features/README.md)
 
 **EN:** One AI buzzword a day, read out by Hans Müller in Room 21 and translated into plain English.
 **DE:** Jeden Tag ein KI-Modewort, vorgelesen von Hans Müller in Zimmer 21 und in Klartext übersetzt.

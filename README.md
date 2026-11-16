@@ -16,7 +16,7 @@
 **One buzzword a day. One audit a month. Filed from Room 21, K'Town.**
 *Ein Modewort am Tag. Ein Audit im Monat. Aus Zimmer 21, K'Town.*
 
-[Home](README.md) · [Buzzer of the Day](daily/README.md) · [Weekly](weekly/README.md) · [Monthly](monthly/README.md) · [Yearly](yearly/README.md) · [Glossary](glossary/README.md)
+[Home](README.md) · [Buzzer of the Day](daily/README.md) · [Weekly](weekly/README.md) · [Monthly](monthly/README.md) · [Yearly](yearly/README.md) · [Glossary](glossary/README.md) · [Features](features/README.md)
 
 </div>
 
@@ -43,6 +43,7 @@ Agent washing, the S-1 as the new whitepaper, $750B capex and the turn to agent 
 | [`monthly/`](monthly/README.md) | **The AI Buzzword Audit** by Emmy: leaderboard, essay, sources | monthly |
 | [`yearly/`](yearly/README.md) | the annual audit | yearly |
 | [`glossary/`](glossary/README.md) | every word in plain English, with the audits it appeared in | grows |
+| [`features/`](features/README.md) | Hans Müller's long reads on AI | irregular |
 
 ## ⏭️ Coming up · Was ansteht
 

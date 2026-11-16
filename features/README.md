@@ -1,0 +1,17 @@
+# 🎛️ Features · Artikel
+
+[Home](../README.md) · [Buzzer of the Day](../daily/README.md) · [Weekly](../weekly/README.md) · [Monthly](../monthly/README.md) · [Yearly](../yearly/README.md) · [Glossary](../glossary/README.md) · [Features](README.md)
+
+**EN:** Hans Müller's long reads on AI, from Room 21.
+**DE:** Hans Müllers lange Texte über KI, aus Zimmer 21.
+
+| Date | Article | | |
+| :-- | :-- | :-- | :-- |
+| 2026-08-23 | **[HOW WE STOPPED THINKING AND LEARNED TO ORCHESTRATE AGENT SWARMS](2026-08-23_how-we-stopped-thinking-and-learned-to-orchestrate-agent-swarms.md)** | An ironic look at the artificial intelligence hype of late summer 2026. | [Medium](https://klangmeister.medium.com/how-we-stopped-thinking-and-learned-to-orchestrate-agent-swarms-0fc236eb095c) |
+| 2026-06-07 | **[June 2026: Your AI Isn’t Just Smart, It’s In Charge](2026-06-07_june-2026-your-ai-isnt-just-smart-it-s-in-charge.md)** | Your morning coffee is brewed perfectly, your calendar optimized for peak productivity, and a complex business report drafted — all before you even open your eyes. | [Medium](https://klangmeister.medium.com/june-2026-your-ai-isnt-just-smart-it-s-in-charge-eacaff6fc184) |
+| 2026-05-24 | **[Architecting Thought: The End of Prompts and the Rise of Autonomous AI Chains](2026-05-24_architecting-thought-the-end-of-prompts-and-the-rise-of-autonomous-ai-chains.md)** | The era of the solitary prompt is over. | [Medium](https://klangmeister.medium.com/architecting-thought-the-end-of-prompts-and-the-rise-of-autonomous-ai-chains-e10a71d6d3fb) |
+| 2026-05-10 | **[Claude Is Brilliant — But His Memory Is a Liability](2026-05-10_claude-is-brilliant-but-his-memory-is-a-liability.md)** | Claude is extraordinary.He writes architecture, explains systems, untangles codebases, and often understands your own project better than you do. | [Medium](https://klangmeister.medium.com/claude-is-brilliant-but-his-memory-is-a-liability-7b28a02bd77c) |
+| 2026-04-13 | **[The One-Man Software Agency: Lessons from a 30‑Day AI‑First Sprint](2026-04-13_the-one-man-software-agency-lessons-from-a-30-day-ai-first-sprint.md)** | Let´s Shift: The role of the individual developer is undergoing a structural shift. | [Medium](https://klangmeister.medium.com/the-one-man-software-agency-lessons-from-a-30-day-ai-first-sprint-6d573957c732) |
+| 2026-04-10 | **[Stop Hackers Cold: The AI ‘Adversarial Mirror’](2026-04-10_stop-hackers-cold-the-ai-adversarial-mirror.md)** | Every line of AI-generated code is a potential vulnerability. | [Medium](https://klangmeister.medium.com/stop-hackers-cold-the-ai-adversarial-mirror-f2a421e22493) |
+| 2026-04-04 | **[The Death of the Prompt: Why AI’s Future is Agentic Orchestration](2026-04-04_the-death-of-the-prompt-why-ais-future-is-agentic-orchestration.md)** | The prompt is dead. The chatbot era? | [Medium](https://klangmeister.medium.com/the-death-of-the-prompt-why-ais-future-is-agentic-orchestration-a028a875743d) |
+| 2026-03-29 | **[Why More AI Information Leads to Worse Performance — and How Google Antigravity Solves It —](2026-03-29_why-more-ai-information-leads-to-worse-performance-and-how-google-antigravity-solves-it.md)** | Imagine a brilliant assistant capable of processing entire libraries of information in an instant. | [Medium](https://klangmeister.medium.com/why-more-ai-information-leads-to-worse-performance-and-how-google-antigravity-solves-it-d4ca22bdd555) |

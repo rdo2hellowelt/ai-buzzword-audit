@@ -1,6 +1,6 @@
 # 🗓️ Monthly audits 2026 · Monatsaudits 2026
 
-[Home](../../README.md) · [Buzzer of the Day](../../daily/README.md) · [Weekly](../../weekly/README.md) · [Monthly](../README.md) · [Yearly](../../yearly/README.md) · [Glossary](../../glossary/README.md)
+[Home](../../README.md) · [Buzzer of the Day](../../daily/README.md) · [Weekly](../../weekly/README.md) · [Monthly](../README.md) · [Yearly](../../yearly/README.md) · [Glossary](../../glossary/README.md) · [Features](../../features/README.md)
 
 **EN:** Emmy's monthly snapshot of the vocabulary shaping the AI industry, newest first.
 **DE:** Emmys monatlicher Blick auf das Vokabular der KI-Branche, neueste zuerst.
